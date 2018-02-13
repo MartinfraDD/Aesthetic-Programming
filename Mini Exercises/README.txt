@@ -1,0 +1,1 @@
+Here you will find all the Mini Exercises done for this semester
