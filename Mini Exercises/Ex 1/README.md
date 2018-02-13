@@ -12,6 +12,3 @@ In my experience, the early process of learning code interchanges between high p
 
 Much like when learning a new language, the rules of coding can often seem overcomplicated and unintuitive, but as your knowledge of the language increases, you might be able to express yourself and your ideas in a way that you were not previously aware of. I think this is what excites me most about coding. A proficient coder is not only able to express their own ideas in a way that is interpretable by a machine, but they are also able to externalize their ideas to the whole world through these machines that exist all over the globe. 
 At this point, my coding ability is extremely low, and thus the ways in which I can express myself through code are also quite limited, I look very much forward to developing my abilities along with my peers in the near future! 
-
-
-
