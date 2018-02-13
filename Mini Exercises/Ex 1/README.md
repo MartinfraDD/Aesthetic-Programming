@@ -1,7 +1,7 @@
 ## Rapping Dogs
 ![GitHub Logo](https://i.imgur.com/tGDKPRb.png)
 
-#### [Experience the future of music here](https://cdn.rawgit.com/MartinfraDD/Aesthetic_Programming/5b3cd664/mini_exercises/mini_ex1/p5/empty-example/index.html)
+#### [Experience the future of music here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/2f454dd7/Mini%20Exercises/Ex%201/p5/empty-example/index.html)
 
 Going into this assignment, I spent a lot of time imagining different fun things that can be done with my limited coding abilities. During the assignment I’ve been toying around with a bunch of different concepts, each of them very minor in scope, but still quite challenging for me in terms of what I am able to do with the limited coding toolset that I have. With each project I tried, I would hit multiple roadblocks, which would force me to halt the process itself, in order to get help from various tutorials and online resources. With each roadblock however, I learned something new in terms of how coding in Javascript works. For example, I had not previously given much thought to how the order the code is written in impacts the final product, but now this one of the many things I’ll try to keep in mind moving forward. 
 
