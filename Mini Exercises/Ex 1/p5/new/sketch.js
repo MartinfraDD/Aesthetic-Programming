@@ -641,6 +641,11 @@ fill(150, 70, 50);
 rect(550, 530, 100, 150);
 slam.playMode('sustain');
 slam.play();
+setTimeout(dark, 2000);
+}
+  function dark() {
+  background(0);
 
+}
 }
 }
