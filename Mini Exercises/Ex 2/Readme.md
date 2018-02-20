@@ -1,12 +1,12 @@
 
 
 ## Working with fun
-For this assignment we were asked to create a simple program, that would convey a sense of fun through the code. What I decided to create, was a sort of interactive story, wherein the person uses their mouse to progress the story. 
+For this assignment we were asked to create a simple program, that would convey a sense of fun through the code. What I decided to create, was a sort of interactive story, wherein the person uses their **Left Mouse Button** to progress the story. 
 
 ## [Have a look here!](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/c6c2fccf/Mini%20Exercises/Ex%201/p5/new/index.html).
  
 
-![hello](https://i.imgur.com/JOfzd6W.png)
+![hello](https://i.imgur.com/JOfzd6W.png) 
 ### It's very easy to break this program, so please just click one time per action! 
 ## Some background
 
