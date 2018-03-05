@@ -50,7 +50,6 @@ push();
     var er = ec.meanPredict(cp);
 
     if (er) {
-        // angry=0, sad=1, surprised=2, happy=3
         for (var i = 0;i < er.length;i++) {
 
 // what is below this only happens if the user smiles enough (if it worked better)
