@@ -84,3 +84,5 @@ class Fish {
 
 ```
 I hope I haven't rambled too much, and I apologise for potential grammatical errors. Hopefully this has been a fun experience for you, it was a lot of fun making this program. 
+
+P.S. I've tried to be more clean with how I write code, trying to use correct indentation and such, I hope it helps make it more legible! 
