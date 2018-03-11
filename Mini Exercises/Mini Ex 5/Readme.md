@@ -1,4 +1,4 @@
-## Deep Seeing
+## Deep Seeing - just a placeholder, no peeking!
 
 For this week's assignment, we were asked to create a project which involved some object-oriented program, wherein we utilize classes and other unfamiliar syntax (at least unfamiliar to me)
 Another aspect of this assignment was that we were asked to reflect on the programmer's subjectivity, and what effect it may have on their projects. 
