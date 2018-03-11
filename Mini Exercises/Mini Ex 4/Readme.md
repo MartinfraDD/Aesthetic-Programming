@@ -1,7 +1,7 @@
 
 ## Smile
 
-For this week's assignment we were tasked to create a piece of software, that would critically reflect on the rampant data capturing in digital cultured. 
+For this week's assignment we were tasked to create a piece of software, that would critically reflect on the rampant data capturing in digital culture. 
 
 With this assignment in particular, I feel that there are so many ways to approach the topic, and having already looked at many of my peer's assignments, I feel it's so encouring to see all the creative ways people have expressed their feelings on this topic. For my own assignment, I have decided to focus on tracking the expressiveness of the face, focusing on smiling, 
 
