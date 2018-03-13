@@ -8,9 +8,9 @@ For my project, I have decided to create a small game about a deep sea diver who
 
 #### The game is played through the arrow keys. Chrome may be required to view the intro and outro. 
 
-## [Dive in here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/4a715732/Mini%20Exercises/Ex%201/p5/Smile/index.html).
+## [Dive in here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/96c1ff0e/Mini%20Exercises/Mini%20Ex%205/sketch05/index.html).
  
-![hello](https://i.imgur.com/PqZLSdn.png) 
+![hello](https://i.imgur.com/9A2yXXs.png) 
 
 I think the main focus of the game is to be humourous and to entertaining for a little bit, without having an overall message, I hope it justifies its own existance in the end. 
 It is my hope that adding a short amount of context to the scenario of the game will make the whole program seem more complete, in a way. 
