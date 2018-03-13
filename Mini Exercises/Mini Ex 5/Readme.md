@@ -10,7 +10,7 @@ For my project, I have decided to create a small game about a deep sea diver who
 
 ## This program has some issues running, try perhaps opening it and switching between tabs on your web browser, or perhaps try reloading it, I hope it works! 
 ## [Dive in here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/d97aecc6/Mini%20Exercises/Mini%20Ex%205/sketch05/index.html).
- 
+ Intro cutscene can be skipped with the right mouse button
 ![hello](https://i.imgur.com/9A2yXXs.png) 
 
 ## If it doesn't run, here it is on video: https://www.youtube.com/watch?v=SyH9Gp8XTUM&feature=youtu.be
