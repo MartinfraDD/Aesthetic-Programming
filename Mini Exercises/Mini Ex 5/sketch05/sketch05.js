@@ -19,7 +19,6 @@ function preload() {
   fishImage5 = loadImage('fish5.png');
   fishImage6 = loadImage('fish6.png');
   thebg = loadImage('bg.png');
-  gnsong = loadSound('goodnight.mp3');
   video1 = createVideo('intro.mov');
   video2 = createVideo('outro.mov');
 }
