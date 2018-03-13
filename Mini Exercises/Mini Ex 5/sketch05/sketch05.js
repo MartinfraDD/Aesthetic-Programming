@@ -19,6 +19,7 @@ function preload() {
   fishImage5 = loadImage('fish5.png');
   fishImage6 = loadImage('fish6.png');
   thebg = loadImage('bg.png');
+  gnsong = loadSound('goodnight.wav');
   video1 = createVideo('intro.mov');
   video2 = createVideo('outro.mov');
 }
@@ -39,8 +40,8 @@ function setup() {
   frameRate(60);
   video1.hide();
   video2.hide();
-  //gnsong.pause();
-
+  gnsong.loop();
+  gnsong.setVolume(0);
 // Here's the player character! This works through the play.library
   diver = createSprite(width/2, height/2);
   diver.maxSpeed = 3;
@@ -61,14 +62,13 @@ function setup() {
 // Here everything gets drawn
 function draw() {
 
-
 // Start = true is used to know if the opening video has finished.
   if (start == true) {
 //gnsong.play();
     video1.play();
     image(video1, -250, 0, 1300, 700);
   }
-  if (video1.time() >30.5) {
+  if (video1.time() >30) {
    video1.hide();
     start = false;
   }
@@ -77,6 +77,8 @@ function draw() {
 // This just tells the game to begin if the intro is done, and if the player has not lost
   if (lost == false && start == false) {
       background(thebg);
+
+      gnsong.setVolume(0.3);
 // this calls for the function which controls the player-character
       diverperson();
     for (let i = 0; i <fishies.length; i++) {
@@ -170,6 +172,7 @@ function diverperson() {
 // It plays the final cutscene, and sets the draw to no longer loop.
 function loser() {
   playing = true;
+  gnsong.setVolume(0);
   if (playing == true) {
 //    gnsong.stop();
     video2.play();
@@ -184,6 +187,10 @@ function loser() {
     noloop();
     }
 
-
-//video1.noloop();
 }
+
+function mousePressed() {
+  video1.hide();
+  video1.volume(0)
+   start = false;
+  }
