@@ -68,7 +68,7 @@ function draw() {
     video1.play();
     image(video1, -250, 0, 1300, 700);
   }
-  if (video1.time() >31.5) {
+  if (video1.time() >30.5) {
    video1.hide();
     start = false;
   }
