@@ -186,6 +186,5 @@ function loser() {
     }
 
 
-  console.log(video2.time());
 //video1.noloop();
 }
