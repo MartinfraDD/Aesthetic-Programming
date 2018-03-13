@@ -9,7 +9,7 @@ For my project, I have decided to create a small game about a deep sea diver who
 #### The game is played through the arrow keys. Chrome may be required to view the intro and outro. 
 
 ## This program has some issues running, try perhaps opening it and switching between tabs on your web browser, I hope it works! Or perhaps try reloading it.
-## [Dive in here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/302ef2ff/Mini%20Exercises/Mini%20Ex%205/sketch05/index.html).
+## [Dive in here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/90693d42/Mini%20Exercises/Mini%20Ex%205/sketch05/index.html).
  
 ![hello](https://i.imgur.com/9A2yXXs.png) 
 
