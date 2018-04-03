@@ -7,7 +7,7 @@ While discussing different ideas in our group, I believe Magnus brought up the '
 The end result is a program in which you assume the role of a dutiful monkey, tasked with producing Hamlet's famous soliloquy. For the sake of brevity, as you type, the program will eventually begin producing the correct piece. You are also able to start over by pressing the 'enter key' 
 
 
-## [Fulfil your primate duty here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/cb0222ff/Mini%20Exercises/Mini%20Ex%207/Literature/index.html).
+## [Fulfill your primate duty here](https://cdn.rawgit.com/MartinfraDD/Aesthetic-Programming/cb0222ff/Mini%20Exercises/Mini%20Ex%207/Literature/index.html).
 
 ![hello](https://i.imgur.com/Xpu08Wb.png) 
 
