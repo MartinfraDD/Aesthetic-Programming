@@ -60,4 +60,5 @@ The subjectivity of how we selected these words is also interesting to point out
 I am reminded of some heavily user-based digital initiatives of the past. You may have heard of the Microsoft powered Tay AI, which was a Twitter bot made to emulate the online behaviour of a teenage girl, while being dynamically influenced by the users who interact with it (similar to [Cleverbot](http://www.cleverbot.com/)) What ended up happening, is that the users influenced the AI to such an extreme degree, that the AI began spouting racial explitives and other wildly extreme comments, which prompted Microsoft to lock the account indefinitely. It's interesting to think about the relationship between providers and users in this context, where the users are able to influence the program as much as the providers themselves. What is intended of the program may be wildly different from the reality which is formed, and it may even make an innocent robot yell at minorities. 
 
 ![TayAI](https://i.imgur.com/UaecgZH.png) 
+
 Tay never ttyl'd me 
