@@ -13,7 +13,6 @@ For my project, I have decided to create a small game about a deep sea diver who
  Intro cutscene can be skipped with the left mouse button
 ![hello](https://i.imgur.com/9A2yXXs.png) 
 
-## If it doesn't run, here it is on video: https://www.youtube.com/watch?v=SyH9Gp8XTUM&feature=youtu.be
 
 I think the main focus of the game is to be humourous and to entertaining for a little bit, without having an overall message, I hope it justifies its own existance in the end. 
 It is my hope that adding a short amount of context to the scenario of the game will make the whole program seem more complete, in a way. 
